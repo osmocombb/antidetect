@@ -98,4 +98,4 @@ We can spoof or fake any Windows unique parameter or ID!
 37. Spoof CSS UUID fingerprint/ Fake CSS UUID fingerprint
 
 
-# Join the project Anti-Detect, be elusive!
+# Join the project Antidetect, be elusive!
