@@ -63,6 +63,39 @@ We can spoof or fake any hardware parameter or ID!
 We can spoof or fake any Windows unique parameter or ID!
 -
 # Browser fingerprints
-21. Spoof / Fake
+21. Spoof Canvas fingerprint/ Fake Canvas fingerprint
+
+22. Spoof WebGL fingerprint/ Fake WebGl fingerprint
+
+23. Spoof WebGL vendor/ Fake WebGL vendor
+
+24. Spoof WebGL renderer/ Fake WebGL renderer
+
+25. Spoof WebGL extensions
+
+26. Spoof Fragment Shader
+
+27. Spoof Vertex Shader
+
+28. Spoof WebGL2.0 functions parameters/ Fake WebGL2.0 functions parameters
+
+29. Spoof ClientRect fingerprint/ Fake ClientRect fingerprint
+
+30. Spoof Font fingerprint/ Fake Font fingerprint
+
+31. Spoof WebRTC DeviceID fingerprint/ Fake WebRTC DeviceID fingerprint
+
+32. Spoof AudioContext fingerprint/ Fake AudioContext fingerprint
+
+33. Spoof Flac Audio fingerprint/ Fake Flac Audio fingerprint
+
+34. Spoof UserAgent/ Fake UserAgent
+
+35. Spoof screen size CSS
+
+36. Spoof Ubercookie/ Fake Ubercookie
+
+37. Spoof CSS UUID fingerprint/ Fake CSS UUID fingerprint
 
 
+# Join the project Anti-Detect, be elusive!
