@@ -1,6 +1,11 @@
 # Antidetect 2018 Pro OpenSource by Vektor T13
 
 Current ver 1.0.0 (03/02/2018)
+
+### IMPORTANT NOTIFICATION!
+
+The project currently in research state, active development starts soon
+
 *********************************************************
 Demonstration https://www.youtube.com/watch?v=52S6BoMPJT4
 *********************************************************
