@@ -2,7 +2,7 @@
 
 Current ver 1.0.0 (03/02/2018)
 
-### IMPORTANT NOTIFICATION!
+### IMPORTANT NOTICE!
 
 The project currently in research state, active development starts soon
 
