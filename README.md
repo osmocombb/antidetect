@@ -4,7 +4,7 @@ Current ver 1.0.0 (03/02/2018)
 
 ### IMPORTANT NOTICE!
 
-The project currently in research state, active development starts soon
+The project currently in research stage, active development starts soon.
 
 *********************************************************
 Demonstration https://www.youtube.com/watch?v=52S6BoMPJT4
